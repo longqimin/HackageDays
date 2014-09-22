@@ -1,5 +1,5 @@
 # Data.Csv
-[Data.Csv](http://hackage.haskell.org/package/cassava-0.4.1.0) @hackage
+[Data.Csv @hackage](http://hackage.haskell.org/package/cassava-0.4.1.0) 
 
 ## custome data type
 ```haskell
