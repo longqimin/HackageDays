@@ -1,4 +1,4 @@
 HackageDays
 ===========
 
-brief introductions on how to use packages on hackage, and showing how to use it
+separately brief introductions on using some interesting packages on hackage
